@@ -1,0 +1,9 @@
+{
+  "name": "com.laicasaane.unity-editor-icons",
+  "displayName": "Unity Editor Icons",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Build in unity editor icons",
+  "category": "utility",
+  "author": "Laicasaane <laicasaane@outlook.com> (https://github.com/laicasaane)"
+}
